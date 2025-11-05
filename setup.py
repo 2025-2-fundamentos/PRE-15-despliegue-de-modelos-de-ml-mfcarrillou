@@ -12,5 +12,7 @@ setup(
         "pandas",
         "scikit-learn",
         "requests",
+        "matplotlib",
+        "ipykernel",
     ],
 )
